@@ -8,8 +8,12 @@
 
 Foi realizado a implementação da arquitetura **YOLOv8-nano** desenvolvida na linguagem **Python**, carregando apenas os tensores brutos dos pesos oficiais (`yolov8n.pt`) e reconstruindo manualmente todo o pipeline de inferência, decodificação de caixas (*Distribution Focal Loss - DFL*) e algoritmos de pós-processamento (**IoU** e **Non-Maximum Suppression - NMS**).
 
+## 👥 Integrantes do Projeto
 
-
+- Gustavo Coimbra de Souza Teixeira  
+- Julia Folgueral
+- Luiz Fernando de Oliveira Pereira
+- Maria Eduarda Vilela Silva
 ---
 
 ## 📌 Destaques do Projeto
